@@ -24,7 +24,7 @@ ArraDeque.py: It implements the interface Deque. It is a specialization (Inherit
 RandomQueue.py: It will implement the interface Queue. It is a specialization (Inheritance) of ArrayQueue
 
 MaxQueue.py: It will implement the interface Queue. It is a specialization (Inheritance) of ArrayQueue. 
-\
+
 SLLStack.py: It will implement the interface Stack 
 
 SLLQueue.py: It will implement the interface Queue 
